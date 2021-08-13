@@ -2,7 +2,7 @@ Hi, my name is Jake O'Leary.
 
 Currently I am in production on yuesmc.com, using this project as an opportunity to develop with the JAMstack and learn the API ecosystem.
 
-I am learning Javascript, accessible HTML, CSS enhancements like SASS, deploying to CDNs, setting up authentication, configuring secure email services, and NoSQL databases.
+I am learning Javascript, accessible HTML, CSS enhancements like SASS, deploying to CDNs, setting up authentication/auhthorization, configuring secure email services, and NoSQL databases.
 
 Lately I have been working with the Next.js framework and learning how to put together development workflows and pipelines to production.
 
