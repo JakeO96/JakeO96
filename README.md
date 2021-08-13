@@ -1,8 +1,12 @@
-Hi, my name is Jake O'Leary.<br>
-Currently I am in production on yuesmc.com, using this project as an opportunity to develop with the JAMstack and learn the API ecosystem. 
-I am learning Javascript, accessible HTML, CSS enhancements like SASS, deploying to CDNs, setting up authentication, configuring secure email services, and NoSQL databases. 
+Hi, my name is Jake O'Leary.
+
+Currently I am in production on yuesmc.com, using this project as an opportunity to develop with the JAMstack and learn the API ecosystem.
+
+I am learning Javascript, accessible HTML, CSS enhancements like SASS, deploying to CDNs, setting up authentication, configuring secure email services, and NoSQL databases.
+
 Lately I have been working with the Next.js framework and learning how to put together development workflows and pipelines to production.
-I also love Python and have done work with BeautifulSoup and Selenium. 
+
+I also love Python and have done work with BeautifulSoup and Selenium.
 
 I am currently studying "Design Patterns: Elements of Reusable Object-Oriented Software", "Clean Code: A Handbook of Agile Software Craftsmanship", 
 and "Introduction TO Algorithms"
