@@ -1,17 +1,11 @@
-My name is Jake O'Leary.
+Welcome!
 
-Currently I am in production on yuesmc.com, using this project as an opportunity to develop with the JAMstack and learn the API ecosystem.
+My name is Jake O'Leary, I'm a software engineer with an interest in building full-stack web apps. 
 
-I am learning Javascript, accessible HTML, CSS enhancements like SASS, deploying to CDNs, setting up authentication/auhthorization, configuring secure email services, and NoSQL databases.
+JavaScript and Python are my main languages. Building with React and Next.js, along with Flask. Striving for accessible HTML. Tailwind for CSS. 
+Experience with the BeatifulSoup and Selenium libraries. 
 
-Lately I have been working with the Next.js framework and learning how to put together development workflows and pipelines to production.
-
-I have done work with Python libraries BeautifulSoup and Selenium.
-
-I am currently studying "Design Patterns: Elements of Reusable Object-Oriented Software", "Clean Code: A Handbook of Agile Software Craftsmanship", 
-and "Introduction TO Algorithms"
-
-You can reach me at jakeoleary96@gmail.com, and soon at jake-oleary.com
+You can reach me at jakeoleary96@gmail.com, and jake-oleary.com
 
 <!---
 JakeO96/JakeO96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
