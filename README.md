@@ -1,11 +1,5 @@
-Welcome!
-
-My name is Jake O'Leary, I'm a software engineer with an interest in building full-stack web apps. 
-
-JavaScript and Python are my main languages. Building with React and Next.js, along with Flask. Striving for accessible HTML. Tailwind for CSS. 
-Experience with the BeatifulSoup and Selenium libraries. 
-
-You can reach me at jakeoleary96@gmail.com, and jake-oleary.com
+Focused on Typescript, learning MERN stack.
+You can reach me at jakeoleary96@gmail.com
 
 <!---
 JakeO96/JakeO96 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
